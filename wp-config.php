@@ -29,7 +29,7 @@ define( 'DB_USER', 'jsdb' );
 define( 'DB_PASSWORD', '1234Qwer1234' );
 
 /** Database hostname */
-define( 'DB_HOST', 'kjs-221114-db.mysql.database.azure.com' );
+define( 'DB_HOST', 'kjs-221114-db4.mysql.database.azure.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
