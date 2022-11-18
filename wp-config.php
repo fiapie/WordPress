@@ -26,10 +26,10 @@ define( 'DB_NAME', 'wordpress' );
 define( 'DB_USER', 'jsdb' );
 
 /** Database password */
-define( 'DB_PASSWORD', '1234Qwer1234' );
+define( 'DB_PASSWORD', 'Q1w2e3r4asdf' );
 
 /** Database hostname */
-define( 'DB_HOST', 'kjs-db-final.mysql.database.azure.com' );
+define( 'DB_HOST', 'kjs-mysql-flexible.mysql.database.azure.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
